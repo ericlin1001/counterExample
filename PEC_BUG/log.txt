@@ -1,0 +1,7 @@
+Run:../Run/17101
+sleep 1
+Start Run...........................
+fx:94.7787
+fx:94.7787
+fx:94.7787
+Results are saved in ../Run/17101

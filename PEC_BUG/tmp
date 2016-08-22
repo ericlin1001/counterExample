@@ -1,0 +1,28 @@
+#include "include/template.h"
+#include "include/BasicDE.h"
+#include "include/SignalHandleHelper.h"
+#include "include/IDHelper.h"
+#include "pecFunction.h"
+#include<iostream>
+#include<fstream>
+
+#undef DEBUG
+//#define DEBUG
+using namespace std;
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+//#include <conio.h>
+#include <time.h>
+#include <string.h>
+//#include <iostream.h>
+#include "cir.h"
+//#include <omp.h>
+MPIHelper *mpi;
+FILE *slu;
+FILE *pro;
+FILE *var;
